@@ -1,0 +1,38 @@
+[
+  {
+    "LastName": "Ivanov",
+    "FirstName": "Ivan",
+    "Passport": "1234567890",
+    "Hash": "0"
+  },
+  {
+    "LastName": "Petrov",
+    "FirstName": "Alexey",
+    "Passport": "2345678901",
+    "Hash": ""
+  },
+  {
+    "LastName": "Sidorov",
+    "FirstName": "Nikolay",
+    "Passport": "3456789012",
+    "Hash": "abc123"
+  },
+  {
+    "LastName": "Smirnov",
+    "FirstName": "Andrey",
+    "Passport": "4567890123",
+    "Hash": "def456"
+  },
+  {
+    "LastName": "Volkov",
+    "FirstName": "Dmitry",
+    "Passport": "5678901234",
+    "Hash": "ghi789"
+  },
+  {
+    "LastName": "Kuznetsov",
+    "FirstName": "Sergey",
+    "Passport": "6789012345",
+    "Hash": "jkl012"
+  }
+]
