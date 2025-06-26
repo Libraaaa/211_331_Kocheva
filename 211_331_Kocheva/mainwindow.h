@@ -17,7 +17,12 @@ public:
     MainWindow(QWidget *parent = nullptr);
     ~MainWindow();
 
+private slots:
+    void on_openButton_clicked();  //слот для кнопки
+
 private:
     Ui::MainWindow *ui;
+    void loadJsonFromFile(const QString &filePath); //функция для загрузки и проверки JSON-файла
+    QString calculateHash(const QString &data); //функция для вычисления хеша
 };
 #endif // MAINWINDOW_H

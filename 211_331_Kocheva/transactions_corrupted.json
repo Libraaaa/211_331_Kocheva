@@ -2,31 +2,37 @@
   {
     "LastName": "Ivanov",
     "FirstName": "Ivan",
-    "Passport": "1234567890"
-    },
+    "Passport": "1234567890",
+    "Hash": "ZjcyNzRhY2UyZTAyNWZlZGI1ZGFmNThkMTk4YjA4OTJkNTIxZjI5NWYzNmZhYzczMjA1YTUzNGQzZTZjOWVjMA=="
+  },
   {
     "LastName": "Petrov",
     "FirstName": "Alexey",
-    "Passport": "2345678901"    
+    "Passport": "2345678901",
+    "Hash": "ODE3Zjc5ZWY5OWQ5MDRhNmMwOTIzYjdlNzU0YWYzNDMwZDM3Y2IxM2I0MmRmYzNiNTQ5NGNmNTg1ZTU2NDViMw=="
   },
   {
     "LastName": "Sidorov",
     "FirstName": "Nikolay",
-    "Passport": "3456789012"
+    "Passport": "3456789012",
+    "Hash": "ZmQyYTNjZjFlNTE3YzlmNjFlNjFmMWJuMzdjOGJiNjY3MDViZWFkYmQ2YmYyNGU4MTJmYzIzNzQyZjlhMTRmOQ=="
   },
   {
     "LastName": "Smirnov",
     "FirstName": "Andrey",
-    "Passport": "4567890123"
+    "Passport": "4567890123",
+    "Hash": "ZDA0YTE0NGFhYzQ4NjZiM2Y5MjE3NWQ5NDUyYjFmYjZiNzNlNDJmMGU2YzA3MmEzMTc4ZmI3MTAyOGUzNGFhNg=="
   },
   {
     "LastName": "Volkov",
     "FirstName": "Dmitry",
-    "Passport": "5678901234"
+    "Passport": "5678901234",
+    "Hash": "MWMwYmVjZWE0MTA1ZWJjN2E0OGZlODM4Njg4MTU4NTY3NzhiNjU5OTkxZjBkOTY3NWI1YTk1NzFhNGQ2NzdkNQ=="
   },
   {
     "LastName": "Kuznetsov",
     "FirstName": "Sergey",
-    "Passport": "6789012345"
+    "Passport": "6789012345",
+    "Hash": "MjcyY2EwNWVhNjg4YTc3NWVkOWE2MzYzZTM1MGQwZjFiZGEzZGUyMWM3Y2QwNTg1ZDBhZGNlMTIzMjU4MWVhYg=="
   }
 ]
