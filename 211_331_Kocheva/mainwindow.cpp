@@ -68,9 +68,9 @@ void MainWindow::loadJsonFromFile(const QString &filePath) {
                                .arg(passport)
                                .arg(hash);
 
-        // qDebug() << "Concat string: " << concatenated;
-        // qDebug() << "Calculated: " << calculatedHash;
-        // qDebug() << "From file: " << hash;
+        qDebug() << "Concat string: " << concatenated;
+        qDebug() << "Calculated: " << calculatedHash;
+        qDebug() << "From file: " << hash;
 
         QListWidgetItem *item = new QListWidgetItem(itemText);
         if (errorDetected || calculatedHash != hash) {
